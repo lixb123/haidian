@@ -4,6 +4,7 @@
   <strong>OPEN CITY · HAIDIAN</strong><br><br>
   <a href="README.md">中文</a> ｜ <a href="README.en.md"><strong>English</strong></a>
 </p>
+
 ## My Proposal Showcase
 
 <p align="center">

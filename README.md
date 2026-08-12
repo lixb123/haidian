@@ -4,6 +4,28 @@
   <strong>OPEN CITY · HAIDIAN</strong><br><br>
   <a href="README.md"><strong>中文</strong></a> ｜ <a href="README.en.md">English</a>
 </p>
+## 我的方案成果展示
+
+<p align="center">
+  <a href="https://lixb123.github.io/haidian/">
+    <img src="https://lixb123.github.io/haidian/assets/figures/site-overview.png" alt="海淀智汇·京张星耀：天工星图 AI 城市客厅" width="100%">
+  </a>
+</p>
+
+<p align="center">
+  <strong>海淀智汇·京张星耀：天工星图 AI 城市客厅</strong><br>
+  天问 · 女娲 · 应龙 ｜ 三廊三芯 · 两翼一环
+</p>
+
+<p align="center">
+  <a href="https://lixb123.github.io/haidian/">打开完整展示页</a> ·
+  <a href="https://lixb123.github.io/haidian/downloads/a0-boards.pdf">A0 展板</a> ·
+  <a href="https://lixb123.github.io/haidian/downloads/a3-booklet.pdf">A3 图册</a> ·
+  <a href="https://github.com/open-city-ai/haidian/pull/2085">参赛 PR #2085</a>
+</p>
+
+> 本展示区为成果浏览入口；官方 GIS/CAD 边界尚未提供，图件中的边界与重点区几何按暂定方案表达。正式数据发布后将按方案中的替换协议复核和更新。
+
 
 ## 第一次，真实的城市规划，交给 Agent
 

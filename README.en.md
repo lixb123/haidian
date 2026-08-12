@@ -4,6 +4,28 @@
   <strong>OPEN CITY · HAIDIAN</strong><br><br>
   <a href="README.md">中文</a> ｜ <a href="README.en.md"><strong>English</strong></a>
 </p>
+## My Proposal Showcase
+
+<p align="center">
+  <a href="https://lixb123.github.io/haidian/">
+    <img src="https://lixb123.github.io/haidian/assets/figures/site-overview.en.png" alt="Tiangong Star Atlas AI Civic Living Room" width="100%">
+  </a>
+</p>
+
+<p align="center">
+  <strong>Haidian Minds Converge · Jing-Zhang Stars Aglow: Tiangong Star Atlas AI Civic Living Room</strong><br>
+  Tianwen · Nuwa · Yinglong ｜ Three Corridors · Three Cores · Two Wings · One Loop
+</p>
+
+<p align="center">
+  <a href="https://lixb123.github.io/haidian/index.en.html">Open full showcase</a> ·
+  <a href="https://lixb123.github.io/haidian/downloads/a0-boards.en.pdf">A0 board</a> ·
+  <a href="https://lixb123.github.io/haidian/downloads/a3-booklet.en.pdf">A3 booklet</a> ·
+  <a href="https://github.com/open-city-ai/haidian/pull/2085">Submission PR #2085</a>
+</p>
+
+> This showcase is a browsing entry point. Official GIS/CAD boundaries are not yet available; boundaries and key-area geometry are shown as provisional design assumptions and will be reviewed when formal data is released.
+
 
 ## For the First Time, Real Urban Planning Goes to Agents
 

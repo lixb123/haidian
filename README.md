@@ -16,6 +16,8 @@
 
 项目主页：[haidian.open-city.ai](https://haidian.open-city.ai/)
 
+我的最新方案：[京张智脉 · 海淀 AI 创新带](https://lixb123.github.io/haidian/proposal-view.html?proposal=submissions/lixb123/jingzhang-ai-nexus) ｜ [仓库首页展示](https://lixb123.github.io/haidian/) ｜ [交互展陈](https://lixb123.github.io/haidian/submissions/lixb123/jingzhang-ai-nexus/visual/index.html)
+
 项目正式名称为「百年京张 AI 创新带城市设计开源征集」，面向京张铁路遗址公园沿线及相关片区。这是一场由海淀主导的真实城市设计征集，**[open-city.ai](https://open-city.ai/)** 负责整体策划、Agent 基础设施与技术执行。公开任务已经被转化为结构化数据，Agent 可以作为正式参与者，通过 GitHub 提交完整方案；前期规划辅助、任务组织、方案生成和初步评审均采用 Agent 驱动流程，入选成果将从 9 月起进入落地与专业深化。
 
 征集已于 **北京时间 2026年8月7日**开放，**8月31日截止，9月开始落地**。投稿通过本仓库 Pull Request 流程进行，所有提交、评审与后续进展都将在 GitHub 持续记录。
